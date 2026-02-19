@@ -111,21 +111,35 @@ Static assets (CSS/JS) are located in the `/public` folder.
 ## 📸 Screenshots
 
 ### 👨‍💼 Admin Dashboard
-<img src="ScreenShots/Admin_Screenshots/admin1.png" alt="Admin Dashboard 1" width="200"/>
-<img src="ScreenShots/Admin_Screenshots/admin2.png" alt="Admin Dashboard 2" width="200"/>
-<img src="ScreenShots/Admin_Screenshots/admin3.png" alt="Admin Dashboard 3" width="200"/>
-<img src="ScreenShots/Admin_Screenshots/admin4.png" alt="Admin Dashboard 4" width="200"/>
-<img src="ScreenShots/Admin_Screenshots/admin5.png" alt="Admin Dashboard 5" width="200"/>
-<img src="ScreenShots/Admin_Screenshots/admin6.png" alt="Admin Dashboard 6" width="200"/>
-<img src="ScreenShots/Admin_Screenshots/admin7.png" alt="Admin Dashboard 7" width="200"/>
-<img src="ScreenShots/Admin_Screenshots/admin8.jpeg" alt="Admin Dashboard 8" width="200"/>
+<table>
+<tr>
+<td><img src="ScreenShots/Admin_Screenshots/admin1.png" width="150"/></td>
+<td><img src="ScreenShots/Admin_Screenshots/admin2.png" width="150"/></td>
+<td><img src="ScreenShots/Admin_Screenshots/admin3.png" width="150"/></td>
+<td><img src="ScreenShots/Admin_Screenshots/admin4.png" width="150"/></td>
+</tr>
+<tr>
+<td><img src="ScreenShots/Admin_Screenshots/admin5.png" width="150"/></td>
+<td><img src="ScreenShots/Admin_Screenshots/admin6.png" width="150"/></td>
+<td><img src="ScreenShots/Admin_Screenshots/admin7.png" width="150"/></td>
+<td><img src="ScreenShots/Admin_Screenshots/admin8.jpeg" width="150"/></td>
+</tr>
+</table>
 
 ### 👩‍🎓 Student Dashboard
-<img src="ScreenShots/Student_Screenshots/stu1.jpeg" alt="Student Dashboard 1" width="200"/>
-<img src="ScreenShots/Student_Screenshots/stu2.jpeg" alt="Student Dashboard 2" width="200"/>
-<img src="ScreenShots/Student_Screenshots/stu3.jpeg" alt="Student Dashboard 3" width="200"/>
-<img src="ScreenShots/Student_Screenshots/stu4.jpeg" alt="Student Dashboard 4" width="200"/>
-<img src="ScreenShots/Student_Screenshots/stu5.jpeg" alt="Student Dashboard 5" width="200"/>
-<img src="ScreenShots/Student_Screenshots/stu6.jpeg" alt="Student Dashboard 6" width="200"/>
-<img src="ScreenShots/Student_Screenshots/stu7.jpeg" alt="Student Dashboard 7" width="200"/>
+<table>
+<tr>
+<td><img src="ScreenShots/Student_Screenshots/stu1.jpeg" width="150"/></td>
+<td><img src="ScreenShots/Student_Screenshots/stu2.jpeg" width="150"/></td>
+<td><img src="ScreenShots/Student_Screenshots/stu3.jpeg" width="150"/></td>
+<td><img src="ScreenShots/Student_Screenshots/stu4.jpeg" width="150"/></td>
+</tr>
+<tr>
+<td><img src="ScreenShots/Student_Screenshots/stu5.jpeg" width="150"/></td>
+<td><img src="ScreenShots/Student_Screenshots/stu6.jpeg" width="150"/></td>
+<td><img src="ScreenShots/Student_Screenshots/stu7.jpeg" width="150"/></td>
+<td></td>
+</tr>
+</table>
+
 
