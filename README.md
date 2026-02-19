@@ -1,4 +1,8 @@
 
+![Laravel](https://img.shields.io/badge/Laravel-10-red?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.2-blue?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-lightblue?style=flat-square&logo=mysql)
+![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 # Online Library Management System
 **Information Technology Institute – Summer Training Project**  
 **License:** MIT  
@@ -101,24 +105,6 @@ Static assets (CSS/JS) are located in the `/public` folder.
 | POST   | /login               | Authenticate user                   | Public        |
 | POST   | /register            | Register new student                | Public        |
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
