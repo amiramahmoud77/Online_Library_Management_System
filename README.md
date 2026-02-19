@@ -104,19 +104,9 @@ Static assets (CSS/JS) are located in the `/public` folder.
 | PUT    | /profile             | Update logged-in user profile       | Admin/Student |
 | POST   | /login               | Authenticate user                   | Public        |
 | POST   | /register            | Register new student                | Public        |
- 
+ ### Admin Dashboard
+<img src="ScreenShots/Admin_Screenshots/admin1.png" alt="Admin Dashboard" width="700"/>
 
+### Student Dashboard
+<img src="ScreenShots/Student_Screenshots/stu1.jpeg" alt="Student Dashboard" width="700"/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
