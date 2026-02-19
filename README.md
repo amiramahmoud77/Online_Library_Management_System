@@ -16,6 +16,10 @@ The **Online Library Management System** is a web application designed for stude
 It provides an **Admin Dashboard** to manage books and users, and a **Student Dashboard** to borrow and return books, track borrow history, and update profiles.
 
 ---
+## 🌐 Website Preview
+
+![Website Preview](ScreenShots/Student_Screenshots/stu6.jpeg)
+
 
 ## 🗂 Key Features
 
